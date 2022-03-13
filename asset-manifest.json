@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f57ae82a.chunk.css",
-    "main.js": "/static/js/main.19eacf5d.chunk.js",
-    "main.js.map": "/static/js/main.19eacf5d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.138cb658.chunk.js": "/static/js/2.138cb658.chunk.js",
-    "static/js/2.138cb658.chunk.js.map": "/static/js/2.138cb658.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.73ea413ca1ac4ee95d6a9bda28444c00.js": "/precache-manifest.73ea413ca1ac4ee95d6a9bda28444c00.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f57ae82a.chunk.css.map": "/static/css/main.f57ae82a.chunk.css.map",
-    "static/media/CardImage.jpg": "/static/media/CardImage.8b85b0c1.jpg",
-    "static/media/stylesheet.css": "/static/media/jumbotron.a193b7b4.jpg"
+    "main.css": "/react-project/static/css/main.e33aa362.chunk.css",
+    "main.js": "/react-project/static/js/main.19eacf5d.chunk.js",
+    "main.js.map": "/react-project/static/js/main.19eacf5d.chunk.js.map",
+    "runtime~main.js": "/react-project/static/js/runtime~main.270f79fb.js",
+    "runtime~main.js.map": "/react-project/static/js/runtime~main.270f79fb.js.map",
+    "static/js/2.138cb658.chunk.js": "/react-project/static/js/2.138cb658.chunk.js",
+    "static/js/2.138cb658.chunk.js.map": "/react-project/static/js/2.138cb658.chunk.js.map",
+    "index.html": "/react-project/index.html",
+    "precache-manifest.73d3039c62026e34d5e287cd04ff7fbe.js": "/react-project/precache-manifest.73d3039c62026e34d5e287cd04ff7fbe.js",
+    "service-worker.js": "/react-project/service-worker.js",
+    "static/css/main.e33aa362.chunk.css.map": "/react-project/static/css/main.e33aa362.chunk.css.map",
+    "static/media/CardImage.jpg": "/react-project/static/media/CardImage.8b85b0c1.jpg",
+    "static/media/stylesheet.css": "/react-project/static/media/jumbotron.a193b7b4.jpg"
   }
 }
