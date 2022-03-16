@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-project/static/css/main.f9c5f52d.chunk.css",
+    "main.css": "/react-project/static/css/main.cb72f195.chunk.css",
     "main.js": "/react-project/static/js/main.45c8cb95.chunk.js",
     "main.js.map": "/react-project/static/js/main.45c8cb95.chunk.js.map",
     "runtime~main.js": "/react-project/static/js/runtime~main.270f79fb.js",
@@ -8,9 +8,9 @@
     "static/js/2.138cb658.chunk.js": "/react-project/static/js/2.138cb658.chunk.js",
     "static/js/2.138cb658.chunk.js.map": "/react-project/static/js/2.138cb658.chunk.js.map",
     "index.html": "/react-project/index.html",
-    "precache-manifest.59ddd083a089a79f0697a728e33c4fbe.js": "/react-project/precache-manifest.59ddd083a089a79f0697a728e33c4fbe.js",
+    "precache-manifest.fa7ff28956661cfaa7dba8c22abe72d4.js": "/react-project/precache-manifest.fa7ff28956661cfaa7dba8c22abe72d4.js",
     "service-worker.js": "/react-project/service-worker.js",
-    "static/css/main.f9c5f52d.chunk.css.map": "/react-project/static/css/main.f9c5f52d.chunk.css.map",
+    "static/css/main.cb72f195.chunk.css.map": "/react-project/static/css/main.cb72f195.chunk.css.map",
     "static/media/CardImage.jpg": "/react-project/static/media/CardImage.8b85b0c1.jpg",
     "static/media/stylesheet.css": "/react-project/static/media/jumbotron.a193b7b4.jpg"
   }
